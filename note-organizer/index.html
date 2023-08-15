@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+    <title>Notes list</title>
+</head>
+<body class="page-body">
+
+    <header class="page-header">
+        <button class="button button--done" type='button' id="filter-needed"></button>
+        <h1 class="main-title">List of Notes</h1>
+        <button class="button completed" type='button' id="filter-completed"></button>
+
+    </header>
+
+    <main class="page-main">
+        <form class="main-form">
+            <input class="main-form__input" type="text" placeholder="Введите название">
+            <button class="main-form__button" type='button'>Добавить в список</button>
+            <input class="main-form__filter" type="text" placeholder="Поиск заметки">
+        </form>
+
+        <ul class="notes-list">
+
+        </ul>
+    </main>
+
+    <footer class="page-footer">
+        <p class="page-footer__copyright">
+            © Borisov Yaroslav
+        </p>
+    </footer>
+</body>
+</html>
