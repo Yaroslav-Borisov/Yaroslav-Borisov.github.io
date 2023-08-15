@@ -8,3 +8,6 @@ https://yaroslav-borisov.github.io/cat-energy-adaptive/catalog.html
 
 Order page of the adaptive version of "Cat Energy" website:
 https://yaroslav-borisov.github.io/cat-energy-adaptive/form.html
+
+Application for organizing notes:
+https://yaroslav-borisov.github.io/note-organizer/index.html
