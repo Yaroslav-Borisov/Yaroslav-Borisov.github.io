@@ -1,6 +1,6 @@
-openBtn = document.querySelector('.button')
-closeBtn = document.querySelector('.popup__close-button')
-popup = document.querySelector('.popup__wrapper')
+const openBtn = document.querySelector('.button')
+const closeBtn = document.querySelector('.popup__close-button')
+const popup = document.querySelector('.popup__wrapper')
 
 openBtn.addEventListener('click', function(event) {
     popup.classList.add("active");
