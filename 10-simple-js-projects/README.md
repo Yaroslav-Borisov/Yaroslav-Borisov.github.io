@@ -1,3 +1,6 @@
+Heart rain -
+https://yaroslav-borisov.github.io/10-simple-js-projects/heart-rain/index.html
+
 Popup -
 https://yaroslav-borisov.github.io/10-simple-js-projects/popup/index.html
 
