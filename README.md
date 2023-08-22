@@ -8,6 +8,9 @@ https://yaroslav-borisov.github.io/note-organizer/index.html
 
 10 Simple JS Projects:
 
+Background-color changer -
+https://yaroslav-borisov.github.io/10-simple-js-projects/background-changer/index.html
+
 Heart rain - 
 https://yaroslav-borisov.github.io/10-simple-js-projects/heart-rain/index.html
 
