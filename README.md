@@ -8,6 +8,9 @@ https://yaroslav-borisov.github.io/note-organizer/index.html
 
 10 Simple JS Projects:
 
+Heart rain - 
+https://yaroslav-borisov.github.io/10-simple-js-projects/heart-rain/index.html
+
 Automatic typewriter -
 https://yaroslav-borisov.github.io/10-simple-js-projects/auto-write-text/index.html
     
