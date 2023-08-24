@@ -1,3 +1,9 @@
+Dark mode toggle -
+https://yaroslav-borisov.github.io/10-simple-js-projects/dark-mode-toggle/index.html
+
+Background changer -
+https://yaroslav-borisov.github.io/10-simple-js-projects/background-changer/index.html
+
 Heart rain -
 https://yaroslav-borisov.github.io/10-simple-js-projects/heart-rain/index.html
 
