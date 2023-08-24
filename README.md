@@ -8,6 +8,8 @@ https://yaroslav-borisov.github.io/note-organizer/index.html
 
 10 Simple JS Projects:
 
+Dark mode toggle - https://yaroslav-borisov.github.io/10-simple-js-projects/dark-mode-toggle/index.html
+
 Background-color changer -
 https://yaroslav-borisov.github.io/10-simple-js-projects/background-changer/index.html
 
