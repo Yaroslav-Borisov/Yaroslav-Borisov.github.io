@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap');
+
+.page-body {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    border: none;
+}
+
+.sound__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+button {
+    padding: 20px 30px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 25px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    animation-duration: 0.2s;
+    animation-name: tilt-shaking;
+    animation-iteration-count: 2;
+    color: #000000;
+    background-color: #ffffff;
+    transition: 0.3s ease-in-out;
+}
+
+@keyframes tilt-shaking {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(10deg); }
+    50% { transform: rotate(0deg); }
+    75% { transform: rotate(-10deg); }
+    100% { transform: rotate(0deg); }
+}
+
