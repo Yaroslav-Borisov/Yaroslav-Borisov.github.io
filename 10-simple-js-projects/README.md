@@ -1,3 +1,6 @@
+Sound board -
+https://yaroslav-borisov.github.io/10-simple-js-projects/sound-board/index.html
+
 Dark mode toggle -
 https://yaroslav-borisov.github.io/10-simple-js-projects/dark-mode-toggle/index.html
 
