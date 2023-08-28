@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap');
+
+.page-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    border: none;
+}
+
+.title {
+    margin: 0;
+    margin-bottom: 25px;
+    padding: 0;
+    font-family: 'Source Code Pro', monospace;
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.carousel {
+    display: flex;
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+}
+
+.carousel__list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    transition: 1s;
+}
+
+.carousel__list--no-transition {
+    transition: none;
+}
+
+.carousel__image {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+}
