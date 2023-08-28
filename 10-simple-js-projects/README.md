@@ -1,3 +1,9 @@
+Image zoom effect -
+https://yaroslav-borisov.github.io/10-simple-js-projects/zoom-effect/index.html
+
+Image carousel slider -
+https://yaroslav-borisov.github.io/10-simple-js-projects/carousel/index.html
+
 Sound board -
 https://yaroslav-borisov.github.io/10-simple-js-projects/sound-board/index.html
 
