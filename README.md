@@ -6,6 +6,11 @@ https://yaroslav-borisov.github.io/cat-energy-adaptive/index.html
 Application for organizing notes:
 https://yaroslav-borisov.github.io/note-organizer/index.html
 
+10 Hard JS Projects:
+
+New Year countdown timer:
+https://yaroslav-borisov.github.io/10-hard-js-projects/countdown-timer/index.html
+
 10 Simple JS Projects:
 
 Image zoom effect -
