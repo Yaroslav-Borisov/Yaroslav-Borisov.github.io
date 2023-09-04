@@ -9,6 +9,9 @@ https://yaroslav-borisov.github.io/note-organizer/index.html
 
 10 Hard JS Projects:
 
+Notes App:
+https://yaroslav-borisov.github.io/10-hard-js-projects/notes-app/index.html
+
 Quiz to test your horizons:
 https://yaroslav-borisov.github.io/10-hard-js-projects/quiz-app/index.html
 
