@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Todo App</title>
+</head>
+
+<body class="page-body">
+    <div class="todo__wrapper">
+        <header class="todo__header">
+            <h1 class="todo__title">
+                todos
+            </h1>
+        </header>
+        <form class="todo__form" method="post" onkeypress="if(event.key === 'Enter') return false;">
+            <input class="todo__input" id="todo-input" type="text" placeholder="Enter your todo">
+        </form>
+        <ul class="todo__list" id="todo-list">
+            <!-- <li class="todo__item" id="todo-item" data-done="">
+                Помыть кота
+            </li>
+            <li class="todo__item todo__item--done" id="todo-item">
+                Почистить картошку
+            </li> -->
+        </ul>
+        <footer class="todo__footer">
+            <p class="todo__help">
+                Left click to toggle complete.<br>
+                Right click to delete the todo.
+            </p>
+        </footer>
+    </div>
+    <script src="app.js" type="module"></script>
+</body>
+
+</html>
