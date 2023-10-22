@@ -9,6 +9,9 @@ https://yaroslav-borisov.github.io/note-organizer/index.html
 
 10 Hard JS Projects:
 
+ToDo App:
+https://yaroslav-borisov.github.io/10-hard-js-projects/todo-app/index.html
+
 Notes App:
 https://yaroslav-borisov.github.io/10-hard-js-projects/notes-app/index.html
 
