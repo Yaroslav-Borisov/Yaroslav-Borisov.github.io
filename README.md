@@ -6,6 +6,8 @@ https://yaroslav-borisov.github.io/cat-energy-adaptive/index.html
 Application for organizing notes:
 https://yaroslav-borisov.github.io/note-organizer/index.html
 
+Keksogram service website:
+https://yaroslav-borisov.github.io/keksogram/index.html
 
 10 Hard JS Projects:
 
